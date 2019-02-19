@@ -61,4 +61,4 @@ client.on('message', message => { // هاذا للبرودكسات
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTQ2OTM0MTg0OTgwMjUwNjQw.D00UYg.AbYVQqkh_Ugv6vkWTaoeMy5FrT0);
